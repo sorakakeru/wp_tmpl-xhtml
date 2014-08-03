@@ -7,8 +7,8 @@ wp_tmpl-xhtml
 
 このテンプレート一式のライセンスはCC0で提供されています。
 CC0については、下記のサイトをご覧下さい。
-http://creativecommons.org/about/cc0（原文）  
-http://sciencecommons.jp/cc0/about（日本語訳）
+原文　http://creativecommons.org/about/cc0  
+日本語訳　http://sciencecommons.jp/cc0/about
 
 
 このテンプレートには、以下のファイルが含まれています。
